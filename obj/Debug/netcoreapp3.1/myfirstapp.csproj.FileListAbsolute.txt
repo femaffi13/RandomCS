@@ -1,0 +1,13 @@
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\bin\Debug\netcoreapp3.1\myfirstapp.exe
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\bin\Debug\netcoreapp3.1\myfirstapp.deps.json
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\bin\Debug\netcoreapp3.1\myfirstapp.runtimeconfig.json
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\bin\Debug\netcoreapp3.1\myfirstapp.runtimeconfig.dev.json
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\bin\Debug\netcoreapp3.1\myfirstapp.dll
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\bin\Debug\netcoreapp3.1\myfirstapp.pdb
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.AssemblyInfo.cs
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.dll
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.pdb
+C:\Users\feder\Desktop\C#\myfirstapp\RandomCS\obj\Debug\netcoreapp3.1\myfirstapp.genruntimeconfig.cache

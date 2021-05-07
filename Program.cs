@@ -15,13 +15,13 @@ namespace myfirstapp
 
             while(numAleatorio != miNum){
                 miNum = int.Parse(Console.ReadLine());
-                if(miNum > numAleatorio) => Console.WriteLine("El número es más bajo");
-                if(miNum < numAleatorio) => Console.WriteLine("El número es más alto");
+                if(miNum > numAleatorio) Console.WriteLine("El número es más bajo");
+                if(miNum < numAleatorio) Console.WriteLine("El número es más alto");
 
                 intentos++;
             }
 
-            Console.WriteLine($"Correcto! Acertaste en ${intentos} intentos");
+            Console.WriteLine($"Correcto! Acertaste en {intentos} intentos");
         }            
     }
 }
